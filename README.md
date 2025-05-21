@@ -1,5 +1,5 @@
 # Depression-Diagnosis-System
-Android studio (Java)
+Android studio (Java/Kotlin)
 
 This project was initiated to address the growing need for accessible and reliable 
 depression diagnostic tools. By leveraging mobile technology, the project aims to 
